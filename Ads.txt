@@ -2,9 +2,14 @@
 5a6c114183.com
 92e2e3e863.5a6c114183.com
 a.pemsrv.com
+ads.facebook.com
+ads.google.com
+adservice.google.com
+an.facebook.com
 aqxodbdcuoql.com
 arvigorothan.com
 cdn.jsdelivr.net
+cdn.luckyorange.com
 cdn.ouo.io
 cdn.viglink.com
 cdnpf.com
@@ -33,10 +38,14 @@ ku2d3a7pa8mdi.com
 ku42hjr2e.com
 launchpad-wrapper.privacymanager.io
 lepiotaspectry.com
+luckyorange.com
 mcynwiasvct.com
+mediavisor.doubleclick.net
 mucoidsparged.life
 mutcheng.net
 ofqxtozpubaf.com
+pagead2.googleadservices.com
+pagead2.googlesyndication.com
 pgbagus.site
 qazrvobkmqmyz.top
 qingjiaota.com
@@ -47,6 +56,7 @@ sawalinitwits.com
 sfafabztidi.com
 spin39.xn--mk1bu44c
 static.doubleclick.net
+stats.wp.com
 tecdo-ec.com
 tundrapinjane.com
 viglink.com
