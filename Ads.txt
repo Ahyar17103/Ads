@@ -5,6 +5,7 @@
 81438456aa.com
 92e2e3e863.5a6c114183.com
 a.pemsrv.com
+abwnpafpahty.com
 accounts.doubleclick.net
 ads.facebook.com
 ads.google.com
@@ -102,10 +103,16 @@ voovlive.com
 vpnnawala.site
 vuftabaxfn.com
 wpadmngr.com
+wzojibovpm.com
 yandexadexchange.net
+*.gstatic.com/images
 */_/contextualsearch
 */$rpc
+*/cdn-cgi/challenge-platform
+*/complete/search
 */generate_204
 */report/v3?
 */s?
 */v1:GetHints?
+*/wp-admin/admin-ajax.php
+*/wp-content/cache
