@@ -114,5 +114,4 @@ yandexadexchange.net
 */report/v3?
 */s?
 */v1:GetHints?
-*/wp-admin/admin-ajax.php
 */wp-content/cache
