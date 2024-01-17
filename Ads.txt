@@ -88,6 +88,7 @@ sdkconfig.ad.xiaomi.com
 sfafabztidi.com
 smuxmalamw.com
 sneakerschampion.site
+spin39jp.com
 spin39.xn--mk1bu44c
 static.doubleclick.net
 stats.wp.com
@@ -102,3 +103,9 @@ vpnnawala.site
 vuftabaxfn.com
 wpadmngr.com
 yandexadexchange.net
+*/_/contextualsearch
+*/$rpc
+*/generate_204
+*/report/v3?
+*/s?
+*/v1:GetHints?
