@@ -34,6 +34,7 @@ claritybt.freshmarketer.com
 click.oneplus.cn
 click.tecdo-ec.com
 commission.europa.eu
+ctiarbwaxam.com
 cystisolor.com
 data.ads.oppomobile.com
 declareave.com
@@ -43,6 +44,8 @@ dxzvw.com
 e2c44.gcp.gvt2.com
 ecdn.firstimpression.io
 ero-labs.com
+ezoic.net
+ezojs.com
 fastclick.net
 freshmarketer.com
 firstimpression.io
@@ -89,6 +92,7 @@ sawalinitwits.com
 sdkconfig.ad.xiaomi.com
 sfafabztidi.com
 smuxmalamw.com
+snaptube.app
 sneakerschampion.site
 spin39jp.com
 spin39.xn--mk1bu44c
@@ -96,6 +100,7 @@ static.doubleclick.net
 stats.wp.com
 tcaabbzrack.com
 tecdo-ec.com
+tracker.gg
 tundrapinjane.com
 viglink.com
 viewyentreat.guru
