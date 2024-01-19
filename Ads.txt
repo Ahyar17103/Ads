@@ -120,7 +120,6 @@ yandexadexchange.net
 *.gstatic.com/images
 */_/contextualsearch
 */$rpc
-*/cdn-cgi/challenge-platform
 */complete/search
 */generate_204
 */qtya?id=
