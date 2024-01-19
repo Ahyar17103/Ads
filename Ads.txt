@@ -51,6 +51,7 @@ freshmarketer.com
 firstimpression.io
 forfeitsubscribe.com
 framerniog.digital
+frydtyhhya.com
 fusetracking.com
 gdpr.web0.eu
 googleads.g.doubleclick.net
@@ -117,6 +118,5 @@ yandexadexchange.net
 */cdn-cgi/challenge-platform
 */complete/search
 */generate_204
-*/report/v3?
+*/qtya?id=
 */s?
-*/v1:GetHints?
