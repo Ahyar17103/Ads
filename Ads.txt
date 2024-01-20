@@ -16,6 +16,7 @@ ads-sg.tiktok.com
 adcolony.com
 adservice.google.com
 advice-ads.s3.amazonaws.com
+alkowwzmizry.com
 amazonclix.com
 an.facebook.com
 aqxodbdcuoql.com
@@ -69,6 +70,7 @@ itineraryupper.com
 jotskuffieh.website
 jsdelivr.net
 jwufkedfaob.com
+kaya303.net
 kileysgreeney.com
 ku2d3a7pa8mdi.com
 ku42hjr2e.com
@@ -114,6 +116,7 @@ spin39jp.com
 spin39.xn--mk1bu44c
 static.doubleclick.net
 stats.wp.com
+sub6.kaya303.net
 tcaabbzrack.com
 tecdo-ec.com
 tracker.gg
@@ -133,3 +136,4 @@ yandexadexchange.net
 */generate_204
 */qtya?id=
 */s?
+/dupa.gif?z
