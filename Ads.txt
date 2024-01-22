@@ -91,6 +91,7 @@ moosroom.com
 meucatalogo.bio
 mutcheng.net
 ofqxtozpubaf.com
+ohfowsawvgig.com
 olinkna.bio
 ovvjhejceotw.com
 owrxpadziajg.com
@@ -130,10 +131,10 @@ vuftabaxfn.com
 wpadmngr.com
 wzojibovpm.com
 yandexadexchange.net
-*/_/contextualsearch
-*/$rpc
-*/complete/search
-*/generate_204
-*/qtya?id=
-*/s?
+/_/contextualsearch
+/$rpc
+/complete/search
+/generate_204
+/qtya?id=
 /dupa.gif?z
+/tikat?id=
