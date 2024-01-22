@@ -36,6 +36,7 @@ cdn.fastclick.net
 cdn.jsdelivr.net
 cdn.luckyorange.com
 cdn.ouo.io
+cdn.ouo.io/js/full-page-script.js
 cdn.pubfuture-ad.com
 cdn.viglink.com
 cdnpf.com
