@@ -37,6 +37,7 @@ cdn.jsdelivr.net
 cdn.luckyorange.com
 cdn.ouo.io
 cdn.pubfuture-ad.com
+cdn.tsyndicate.com
 cdn.viglink.com
 cdnpf.com
 cinuraarrives.com
@@ -143,6 +144,7 @@ swaggydestroy.com
 tcaabbzrack.com
 tecdo-ec.com
 tracker.gg
+tsyndicate.com
 tundrapinjane.com
 viglink.com
 viewyentreat.guru
