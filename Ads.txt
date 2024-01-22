@@ -36,7 +36,6 @@ cdn.fastclick.net
 cdn.jsdelivr.net
 cdn.luckyorange.com
 cdn.ouo.io
-cdn.ouo.io/js/full-page-script.js
 cdn.pubfuture-ad.com
 cdn.viglink.com
 cdnpf.com
@@ -162,6 +161,7 @@ yandexadexchange.net
 /$rpc
 /complete/search
 /generate_204
+/js/full-page-script.js
 /qtya?id=
 /dupa.gif?z
 /tikat?id=
