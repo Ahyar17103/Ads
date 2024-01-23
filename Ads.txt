@@ -33,6 +33,7 @@ bdapi-ads.realmemobile.com
 bidgear.com
 bisnis4dmpototo.com
 blbesnuff.digital
+browser.sentry-cdn.com
 business.samsungusa.com
 byteoversea.com
 cdn.fastclick.net
@@ -61,6 +62,7 @@ dxzvw.com
 e2c44.gcp.gvt2.com
 ecdn.firstimpression.io
 eqn388abadi.com
+eqncdn.com
 ero-labs.com
 ezoic.net
 ezojs.com
@@ -136,6 +138,7 @@ samsungads.com
 sawalinitwits.com
 saweria.co
 sdkconfig.ad.xiaomi.com
+sentry-cdn.com
 sfafabztidi.com
 slot.bio
 smuxmalamw.com
