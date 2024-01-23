@@ -52,6 +52,7 @@ click.tecdo-ec.com
 cookie-script.com
 commission.europa.eu
 ctiarbwaxam.com
+ctiascaqkn.com
 cystisolor.com
 data.ads.oppomobile.com
 declareave.com
@@ -64,6 +65,7 @@ ecdn.firstimpression.io
 eqn388abadi.com
 eqncdn.com
 ero-labs.com
+ero-labs.website
 ezoic.net
 ezojs.com
 fastclick.net
@@ -166,6 +168,7 @@ web0.eu
 whineyancilia.top
 wpadmngr.com
 www.googletagmanager.com
+www.oktoon.site
 www.rebrandly.com
 wzojibovpm.com
 xammcokaho.com
@@ -178,5 +181,7 @@ zwyhucpmoov.com
 /js/full-page-script.js
 /qtya?id=
 /dupa.gif?z
+/ocq?id=
 /tikat?id=
+/wumas?id=
 /xjs/_/js/k=
