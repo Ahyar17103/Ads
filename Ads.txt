@@ -192,7 +192,6 @@ yandexadexchange.net
 zwyhucpmoov.com
 /_/contextualsearch
 /$rpc
-/complete/search
 /generate_204
 /js/full-page-script.js
 /qtya?id=
