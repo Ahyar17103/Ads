@@ -126,6 +126,7 @@ mgstage.com
 mucoidsparged.life
 moosroom.com
 meucatalogo.bio
+mrvap18.com
 mutcheng.net
 nazakxodbz.com
 octanmystes.com
@@ -140,6 +141,7 @@ pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pgbagus.site
 platform.bidgear.com
+pollfish.com
 poweredby.jads.co
 pubfuture-ad.com
 purifybaptism.guru
@@ -148,6 +150,7 @@ qingjiaota.com
 rebrand.ly
 rebrandly.com
 retteringpartnance.com
+rfeablduda.com
 rkgwzfwjgk.com
 robandtwiscar.top
 romauntmirker.com
@@ -190,14 +193,12 @@ wzojibovpm.com
 xammcokaho.com
 yandexadexchange.net
 zwyhucpmoov.com
-/_/contextualsearch
 /$rpc
-/generate_204
 /js/full-page-script.js
 /qtya?id=
 /dupa.gif?z
 /ocq?id=
 /tikat?id=
+/web-script.js
 /wumas?id=
-/xjs/_/js/k=
 ?id=2005163
