@@ -163,7 +163,6 @@ robandtwiscar.top
 romauntmirker.com
 s.dxzvw.com
 samsungads.com
-saasexch.io
 sawalinitwits.com
 saweria.co
 sdkconfig.ad.xiaomi.com
@@ -211,6 +210,7 @@ zwyhucpmoov.com
 /dupa.gif?z
 /ocq?id=
 /tikat?id=
+/pum-site-scripts.js?
 /web-script.js
 /z-7513170
 ?id=1968501
