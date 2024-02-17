@@ -1,10 +1,12 @@
-45.133.44.53
+139.45.197.162
 162.252.21.37
 162.252.21.38
 162.252.21.39
 162.252.21.40
 162.252.21.41
 162.252.21.42
+172.240.80.36
+209.192.169.108
 388baikmpototo.com
 388herompototo.com
 388jpmpo4d.com
@@ -68,7 +70,6 @@ ctiascaqkn.com
 cystisolor.com
 data.ads.oppomobile.com
 declareave.com
-desu.bio
 dkokrazalj.com
 dmm.co.jp
 doubleclick.net
@@ -142,6 +143,7 @@ ohfowsawvgig.com
 okxqmiagltpe.com
 olinkna.bio
 onlinehelpblog.com
+ovssahmamvuz.com
 ovvjhejceotw.com
 owrxpadziajg.com
 pagead2.googleadservices.com
@@ -164,6 +166,7 @@ robandtwiscar.top
 romauntmirker.com
 s.dxzvw.com
 samsungads.com
+saracsoxcpa.com
 sawalinitwits.com
 saweria.co
 sdkconfig.ad.xiaomi.com
@@ -180,9 +183,11 @@ stats.wp.com
 stijzytavb.com
 sub6.kaya303.net
 swaggydestroy.com
+syigcmpyb.com
 sympathetic-competition.com
 tcaabbzrack.com
 tecdo-ec.com
+tkifahjutoj.com
 tracker.gg
 tsyndicate.com
 tundrapinjane.com
@@ -214,5 +219,7 @@ zwyhucpmoov.com
 /pum-site-scripts.js?
 /web-script.js
 /z-7513170
+?id=1941941&jp
 ?id=1968501
 ?id=2005163
+?id=2013574&jp
