@@ -242,7 +242,8 @@ zwyhucpmoov.com
 /pum-site-scripts.js?
 /web-script.js
 /z-7513170
-?id=1941941&jp
+?id=1941941
 ?id=1968501
 ?id=2005163
-?id=2013574&jp
+?id=2013574
+?zoneid=2015164
